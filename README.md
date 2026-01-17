@@ -11,7 +11,7 @@
 ### ✨ Tasarım Özellikleri
 - **Masaüstü:** Geniş ekranlarda ürünler "Bento Grid" yapısıyla ferah bir galeri sunar.
 - **Mobil:** Tek elle kullanım (Thumb-friendly) için optimize edilmiş navigasyon ve "Liquid" geçiş animasyonları.
-- 
+  
 - ## 🛠️ Teknik Özellikler
 - **Modern CSS Mimari:** Flexbox ve CSS Grid ile tamamen responsive yapı.
 - **Sıfır Arayüz Kirliliği:** "Zero-UI" prensibiyle tüm butonlar ve linkler içerik kartlarının içine akıllıca yerleştirildi.
