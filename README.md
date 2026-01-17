@@ -4,7 +4,7 @@
 
 | Masaüstü Görünümü (Desktop) | Mobil Görünümü (Mobile) |
 | :--- | :--- |
-| <img src="https://hizliresim.com/1i8s1vq" width="600"> | <img src="https://hizliresim.com/nutueto" width="220"> |
+| <img src="https://i.hizliresim.com/1i8s1vq.png" width="600"> | <img src="https://i.hizliresim.com/nutueto.png" width="220"> |
 
 ---
 
